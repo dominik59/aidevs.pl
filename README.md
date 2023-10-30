@@ -1,2 +1,2 @@
 # aidevs.pl
-# Who are you ?
+# I am a developer
