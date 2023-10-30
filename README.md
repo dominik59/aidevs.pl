@@ -1,2 +1,2 @@
 # aidevs.pl
-# Whoever reads it Introduce yourself
+# Who are you ?
